@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135494479570",
+    "project_id": "studtrack-d61c2",
+    "storage_bucket": "studtrack-d61c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135494479570:android:48814a36ed3ccf47dbc70b",
+        "android_client_info": {
+          "package_name": "stud.track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_Qz-DDwFZpVi5B7hl19WiZ6MzQ15ECA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
